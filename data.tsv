@@ -22,6 +22,7 @@ anchor.digitalocean.com	<script src="https://anchor.digitalocean.com/index.php/f
 api-js.mixpanel.com	<script src="https://api-js.mixpanel.com/engage/?callback=alert(1)"></script>
 api-maps.yandex.ru  <script src="https://api-maps.yandex.ru/services/panoramas/1.x/?l=stv&lang=en_US&oid=1&origin=userAction&provider=streetview&callback=alert"></script>
 api-v3.tinypass.com	<script src="https://api-v3.tinypass.com/api/v3/conversion/logAutoMicroConversion?callback=alert"></script>
+api.addressy.com	<script src="https://api.addressy.com/Capture/Interactive/Find/v1.10/json3.ws?callback=alert"></script>
 api.bazaarvoice.com	<script src="https://api.bazaarvoice.com/data/batch.json?passkey=e75powr7wqhg1ah5seu00zawf&callback=window.alert"></script>
 api.bing.com	<script src="https://api.bing.com/osjson.aspx?query=x&JsonType=callback&JsonCallback=alert"></script>
 api.braintreegateway.com	<script src="https://api.braintreegateway.com/merchants/x/client_api/v1/payment_methods/credit_cards?callback=alert"></script>
